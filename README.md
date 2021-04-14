@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10OASDb4FFuVwkU8_HFl2Q1sGIvXggEVv)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schwaben-github/Benford-onCovid19/blob/main/Benford's_Law_on_Covid_19_Data.ipynb)
 
 # Benford's Law applied on public Covid19 Data
 Benford's Law on Covid-19 Data
