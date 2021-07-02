@@ -12,3 +12,5 @@ https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fullt
 https://docs.scipy.org/doc/scipy-0.14.0/reference/generated/scipy.stats.ks_2samp.html
 
 https://www.statisticshowto.com/kolmogorov-smirnov-test/
+
+https://github.com/robgon-art/benford
