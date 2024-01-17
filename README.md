@@ -1,5 +1,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schwaben-github/Benford-onCovid19/blob/main/Benford's_Law_on_Covid_19_Data.ipynb)
 
+## Update: On 10th March 2023, the Johns Hopkins Coronavirus Resource Center has ceased collecting and reporting of global COVID-19 data!
+
 # Benford's Law applied on public Covid19 Data
 Benford's Law on Covid-19 Data
 
